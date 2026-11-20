@@ -1,7 +1,7 @@
 # COMP 472 Project — Image & Sentiment Classification on Feature Vectors
 
 **Team:** COMP472_GroupXX
-**Members:** _Name 1 (ID)_, _Name 2 (ID)_, _Name 3 (ID)_
+**Members:** Juan Carlos Bastidas 40228022, _Name 2 (ID)_, _Name 3 (ID)_
 
 This project compares several AI algorithms on two classification tasks that use pre-extracted feature vectors:
 
@@ -61,8 +61,6 @@ python comp472_experiments.py --zip comp-472-project-fall-2026-concordia.zip
 # Quick: only the best known settings (QUICK_BEST in comp472/config.py)
 python comp472_experiments.py --zip comp-472-project-fall-2026-concordia.zip --quick
 
-# Fast tuning: skip the (slow, pure-Python) Decision Tree and Random Forest
-python comp472_experiments.py --zip comp-472-project-fall-2026-concordia.zip --quick --skip-trees
 ```
 
 | Option | Meaning |
