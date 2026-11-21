@@ -1,7 +1,7 @@
 # COMP 472 Project — Image & Sentiment Classification on Feature Vectors
 
 **Team:** COMP472_GroupXX
-**Members:** Juan Carlos Bastidas 40228022, _Name 2 (ID)_, _Name 3 (ID)_
+**Members:** Juan Carlos Bastidas 40228022,Maxime Duquette 40248944_, Kadio Paul-Philippe	Ehui	40269547
 
 This project compares several AI algorithms on two classification tasks that use pre-extracted feature vectors:
 
